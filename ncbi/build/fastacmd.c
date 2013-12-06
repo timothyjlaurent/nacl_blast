@@ -1,0 +1,1 @@
+../demo/fastacmd.c

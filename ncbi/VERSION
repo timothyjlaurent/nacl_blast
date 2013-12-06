@@ -1,1 +1,4 @@
-Wed Jun 20 15:00:00 EDT 2012
+The executable files were built on Fri Dec  6 21:09:35 UTC 2013
+The version number of each individual application
+may be found in the appropriate documentation files in ./ncbi/doc/
+uname -a ouput is: Linux nacl-vm 3.10-0.bpo.3-amd64 #1 SMP Debian 3.10.11-1~bpo70+1 (2013-09-24) x86_64 GNU/Linux

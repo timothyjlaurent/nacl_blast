@@ -1,0 +1,1 @@
+../demo/tbl_chk.c
