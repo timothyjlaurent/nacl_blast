@@ -1,4 +1,4 @@
 nacl_blast
 ==========
 
-Efforts to compile blast for Native Client
+Efforts to compile BLAST for Native Client
